@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+![Personal 3D Metrics](./profile-3d-contrib/profile-night-green.svg)
 <!--
 **eternity0126/eternity0126** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
