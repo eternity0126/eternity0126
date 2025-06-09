@@ -1,10 +1,10 @@
 ## Hi there 👋
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=eternity0126&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=eternity0126&theme=dark" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eternity0126&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eternity0126&layout=compact" />
 </a>
 
 ![Personal 3D Metrics](./profile-3d-contrib/profile-night-green.svg)
