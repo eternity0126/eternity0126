@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=eternity0126)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=eternity0126&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Personal 3D Metrics](./profile-3d-contrib/profile-night-green.svg)
 <!--
