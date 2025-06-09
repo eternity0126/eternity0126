@@ -1,11 +1,11 @@
 ## Hi there 👋
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=eternity0126&theme=dark" />
-</a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=eternity0126&theme=dark&layout=normal" />
+<!-- </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eternity0126&layout=compact" />
-</a>
+</a> -->
 
 ![Personal 3D Metrics](./profile-3d-contrib/profile-night-green.svg)
 <!--
