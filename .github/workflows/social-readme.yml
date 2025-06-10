@@ -14,4 +14,4 @@ jobs:
     steps:
       - uses: zylele/social-readme@master
         with:
-          blog_rss_link: https://eternity0126.github.io/
+          blog_rss_link: https://eternity0126.github.io/atom.xml
