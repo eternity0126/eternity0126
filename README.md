@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-<div align="center">
+<!-- <div align="center">
 <span>  </span>
 <img height="215px" src="https://github-readme-stats.vercel.app/api?username=eternity0126&theme=dark" /><span>  </span><img height="215px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eternity0126&layout=compact&langs_count=8&theme=dark&hide=javascript,html,css" />
 <span>  </span>
-</div>
+</div> -->
 
 ![Personal 3D Metrics](./profile-3d-contrib/profile-night-green.svg)
 
