@@ -1,17 +1,17 @@
-name: Social Readme
+# name: Social Readme
 
-on:
-  schedule:
-    - cron: '0 0 * * *'
-  workflow_dispatch:
-  push:
-    branches:
-      - main
+# on:
+#   schedule:
+#     - cron: '0 0 * * *'
+#   workflow_dispatch:
+#   push:
+#     branches:
+#       - main
 
-jobs:
-  update-social:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: zylele/social-readme@master
-        with:
-          blog_rss_link: https://eternity0126.github.io/atom.xml
+# jobs:
+#   update-social:
+#     runs-on: ubuntu-latest
+#     steps:
+#       - uses: zylele/social-readme@master
+#         with:
+#           blog_rss_link: https://eternity0126.github.io/atom.xml
