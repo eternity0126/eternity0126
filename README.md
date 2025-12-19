@@ -8,16 +8,6 @@
 
 ![Personal 3D Metrics](./profile-3d-contrib/profile-night-green.svg)
 
-## Recent Blog
-<!-- START_SECTION:blog -->
-* <a href='http://eternity0126.top/2025/08/14/DeepLearning/Diffusion/DDPM/' target='_blank'>Denoising Diffusion Probabilistic Models</a> - 2025-08-14
-* <a href='http://eternity0126.top/2025/08/12/DeepLearning/LoRA/' target='_blank'>LoRA</a> - 2025-08-12
-* <a href='http://eternity0126.top/2025/03/23/%E7%AE%97%E6%B3%95/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE/' target='_blank'>二分查找</a> - 2025-03-23
-* <a href='http://eternity0126.top/2025/03/23/%E7%AE%97%E6%B3%95/%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3/' target='_blank'>同向双指针（滑动窗口）</a> - 2025-03-23
-* <a href='http://eternity0126.top/2025/03/23/%E7%AE%97%E6%B3%95/%E7%9B%B8%E5%90%91%E5%8F%8C%E6%8C%87%E9%92%88/' target='_blank'>相向双指针</a> - 2025-03-23
-<!-- END_SECTION:blog --> 
-
-
 <!--
 **eternity0126/eternity0126** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
